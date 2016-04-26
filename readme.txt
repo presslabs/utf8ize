@@ -3,8 +3,8 @@ Contributors: PressLabs
 Donate link: http://www.presslabs.com/
 Tags: utf8ize, presslabs, database, convert, sql, alter, table
 Requires at least: 3.5.1
-Tested up to: 4.4
-Stable tag: 1.0
+Tested up to: 4.5
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -34,6 +34,9 @@ Use your plugin from the `Tools->Utf8ize` page;
 You should use this if you are experiencing double utf8 encoding.
 
 == Changelog ==
+
+= 1.1 =
+Updated to WP 4.5
 
 = 1.0 =
 Start version on WP.
