@@ -4,7 +4,7 @@
  * Plugin URI: http://wordpress.org/extend/plugins/utf8ize/
  * Description: Convert all your database character sets to utf8, trying to follow Codex guides. The plugin return SQL statements and you have to run it manually to apply the conversion.
  * Author: PressLabs
- * Version: 1.0
+ * Version: 1.1
  * Author URI: http://www.presslabs.com/
  */
 
